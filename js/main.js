@@ -91,7 +91,6 @@
       loader2.classList.toggle("hidden");
       //some situations need to clear the content
       loader2.innerHTML = "";
-      materialList.appendChild();
   
   
   
